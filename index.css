@@ -1,0 +1,45 @@
+body{
+    background-color : burlywood ;
+}
+.sticker-gallery {
+    display : flex ;
+    gap: 10px ;
+    margin : 100
+    ;
+}
+.a {
+    width : 450px ;
+     height : 500px ;
+     background-color : lavenderblush ;
+     padding : 25px  ;
+    border-radius: 10px ;  
+     
+}
+.b {
+    width : 450px ;
+    height : 500px ;
+    background-color:aqua;
+}
+
+
+.c {  width:450px;
+      height: 500px ;
+      background-color: blanchedalmond;
+      
+}
+.d {
+    width: 450px;
+    height: 500px;
+    background-color: cadetblue;
+
+}
+.e {
+    width: 600px ;
+    height: 500px;
+    background-color : cyan ;
+
+}
+img {
+    height:60%;
+    width: auto;
+}
