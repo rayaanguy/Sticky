@@ -1,8 +1,10 @@
 # Sticky
 ## Information
-this is a html css static site about a sticker gallery very easy 
+Welcome to Hackclub sticker gallery a website with my favourite 5 sticker
+## Tools used -
+Html and css is used and vercel for hosting 
 ## how to access 
-you can access by clicking on the link (https://sticky-ashy.vercel.app/)
-## Notes
-the site look terrible my school and could not have much time
-made in just 1 hrr
+you can access by clicking on the link (https://sticky-ashy.vercel.app
+<img width="1280" height="800" alt="Screenshot_20261002-073343" src="https://github.com/user-attachments/assets/3232b5f1-1545-4b63-a72c-da7f32595546" />
+)
+
